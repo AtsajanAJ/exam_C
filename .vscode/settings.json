@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "python-envs.pythonProjects": [
+        {
+            "path": "Quiz1/output",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
